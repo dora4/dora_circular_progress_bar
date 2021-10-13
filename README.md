@@ -8,7 +8,7 @@
 
 关系：暂无
 
-技术要点：基本绘图、ValueAnimator、TypeEvaluator
+技术要点：ObjectAnimator、自定义属性
 
 ### 照片
 
