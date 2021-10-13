@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="CircularProgressBar">
+        <attr name="dora_progressWidth" format="dimension|reference" />
+        <attr name="dora_progressColor" format="color|reference" />
+    </declare-styleable>
+</resources>
